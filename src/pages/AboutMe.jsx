@@ -18,7 +18,7 @@ const AboutMe = ({ darkMode }) => {
           whileHover={{ scale: 1.1 }}
         >
           <img
-            src="../"
+            src="/images/aboutme.png"
             alt="3D Animation"
             className="rounded-lg  w-[100%] h-[100%] md:ml-[2vw] mr-[auto] object-contain"
           />

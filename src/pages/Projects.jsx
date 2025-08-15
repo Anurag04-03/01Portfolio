@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import "../../public/styles/carousel.css";
+import "../../public/styles/Carousel.css";
 
 
 const entries = [
